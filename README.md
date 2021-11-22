@@ -1,4 +1,4 @@
-# Markdown previewer
+# Visualizador de markdown 📑
 
 Um visualizador de markdown desenvolvido com o propósito de praticar minhas habilidades com React.
 
