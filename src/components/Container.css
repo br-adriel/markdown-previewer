@@ -1,6 +1,6 @@
 .container {
   width: 1280px;
-  padding: 1rem 0;
+  padding: 1rem 0.5rem;
   display: flex;
   justify-content: space-between;
   align-items: stretch;

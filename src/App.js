@@ -14,8 +14,8 @@ function App() {
           <Editor inputText={inputText} setInputText={setInputText} />
           <Previewer inputText={inputText} />
         </Container>
+        <Footer />
       </main>
-      <Footer />
     </>
   );
 }
