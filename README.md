@@ -1,3 +1,5 @@
+# Markdown previewer
+
 Um visualizador de markdown desenvolvido com o propósito de praticar minhas habilidades com React.
 
 Essa página foi constuída durante um curso online do site [FreeCodeCamp](https://www.freecodecamp.org/), e utiliza o pacote [Marked](https://github.com/markedjs/marked) para gerar o markdown.
