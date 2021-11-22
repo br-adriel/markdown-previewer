@@ -26,3 +26,9 @@
   padding: 0.2rem;
   height: 100%;
 }
+
+@media (max-width: 768px) {
+  .window {
+    margin: 0.5rem 0;
+  }
+}
