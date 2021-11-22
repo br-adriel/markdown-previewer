@@ -1,6 +1,7 @@
 import "./Editor.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEdit } from "@fortawesome/free-solid-svg-icons";
+import Window from "./Window";
 
 const Editor = (props) => {
   const inputChange = (e) => {
